@@ -1,0 +1,2 @@
+#!/usr/bin/sh
+git commit -m "add <description>"
